@@ -1,0 +1,2 @@
+# Git Checkout
+Git checkout is feature used to switch to another branch and also can move to specific commit to evaluate what has been done.
