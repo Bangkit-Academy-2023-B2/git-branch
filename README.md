@@ -1,2 +1,3 @@
-# git-branches
-This repository implements case study part 3 from basic Git and GitHub class on Dicoding platform.
+# Git Branch
+Branching is technique to separate main branch into other branch with aim of preserving condition of main branch.
+
