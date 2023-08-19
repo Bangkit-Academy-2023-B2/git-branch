@@ -1,3 +1,3 @@
 # Git Branch
-Branching is technique to separate main branch into other branch with aim of preserving condition of main branch.
+Branching is technique used to separate branches from base branch with aim of preserving conditions of base branch.
 
