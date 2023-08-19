@@ -1,2 +1,2 @@
 # Git Merge
-Merge is used to combining multiple sequences of commits into a unified history and can also merge two differet branches into one.
+Git merge is feature used to combining multiple sequences of commits into a unified history and can also merge two differet branches into one.
